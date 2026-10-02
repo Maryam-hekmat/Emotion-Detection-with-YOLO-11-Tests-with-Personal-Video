@@ -1,4 +1,5 @@
-# Emotion-Detection-with-YOLO-11-Tests-with-Personal-Video
+🌐 Portfolio: https://maryamhekmatai.com/
+#Emotion-Detection-with-YOLO-11-Tests-with-Personal-Video
 Emotion detection with YOLO 11 Test with personal video Using my own personal video and with YOLO 11 I was able to conduct a successful test
 # Emotion-Detection-with-YOLO-11-Tests-with-Personal-Video
 Emotion detection with YOLO 11 Test with personal video Using my own personal video and with YOLO 11 I was able to conduct a successful test
@@ -94,6 +95,8 @@ Output video can be downloaded from:
 
 Example inference code:
 ```python
+
+
 from ultralytics import YOLO
 
 model = YOLO("best.pt")
